@@ -1,0 +1,23 @@
+These are the covs from benchmarking_project/picoMethyl/readReductions/pct100
+These were used for all figures as of submission to Mol. Eco. Resources.
+GD 2-18-20
+
+The important files are the .cov files, these provide the methylation coverages output from Bismark.
+
+The file names indicate the sample the data came from.
+example names:
+pm-L5-s2_S5.trim_bismark_bt2.bismark.cov.gz
+pm-N12-t1_S8.trim_bismark_bt2.bismark.cov.gz 
+
+'pm' indicates the library was created with zymo's Pico Methyl kit
+'L5' or 'N12' indicates the colony, Little Pioneer Bay 5 or Northeast Orpheus 12
+'s2' or 't1' indicates the tissue type (side or tip) and the replicates (1,2,or 3)
+
+
+#Bismark Run files:
+runBismark files include the commands and standard output and error output for the Bismark run
+extractMeth files include the commands and standard output and error output for the methylation extraction step
+
+
+
+

@@ -1,0 +1,8 @@
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-L5-s2_S5.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-L5-s3_S1.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-L5-t1_S6.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-L5-t3_S2.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-N12-s2_S7.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-N12-s3_S3.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-N12-t1_S8.trim
+bismark --bowtie2 --score_min L,0,-0.6 -N 1 --non_directional --multicore 4 --genome /work/02260/grovesd/lonestar/bismark_Amil_Zach_Fullers_v2.00 pm-N12-t3_S4.trim
